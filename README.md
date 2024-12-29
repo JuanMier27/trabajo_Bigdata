@@ -7,7 +7,7 @@ Repo utilizado para elaborar el trabajo para la asignatura "Programación y mane
 
 
 <!-- En la linea de abajo HAS de SUSTITUIR "perezp44" por tu usuario de Github-->
-La versión final del trabajo puede visualizarse en: <https://JuanMier27.github.com/trabajo_Bigdata>.  <https://juanmier27.github.io/trabajo_Bigdata/>.
+La versión final del trabajo puede visualizarse en:  <https://juanmier27.github.io/trabajo_Bigdata/>.
 
 
 <!-- Abajo podéis escribir lo que queráis, igual un resumen del trabajo, o ..., o ... pero al menos, tenéis que poner el título del trabajo y el título del trabajo-->
