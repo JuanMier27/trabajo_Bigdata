@@ -1,0 +1,27 @@
+---
+  title: "Elecciones Presidenciales en los Estados Unidos"
+  subtitle: "Evolución histórica del voto popular y análisis elecciones 2020"
+  author:
+    - name: "Juan José Mier Martínez (Juanmier@alumni.uv.es)"
+      affiliation: "Universitat de València"
+      affiliation-url: "https://www.uv.es"
+  categories: ["Trabajo_BigData"]
+  date: "01/01/2025"
+  format:
+    html:
+      main-container: true
+      full-width: true
+      backgroundcolor: "skyblue"
+      linkcolor: "red"
+      fontcolor: "navy"
+      toc: true
+      toc-location: left
+      toc-title: "Índice de contenidos"
+      theme: sandstone
+      embed-resources: true
+      title-block-banner: "imagenes/USA.png"
+      title-block-style: default
+      title-block-banner-color: "white"
+      link-external-newwindow: true
+  editor: visual
+  ---
